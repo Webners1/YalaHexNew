@@ -416,7 +416,7 @@ export const TeamMember = [
     },
     {
         img:HomeDemo3TeamImg5,
-        title:'Salman',
+        title:'Salmen',
         text:'Executive Officer'
     },
     {
